@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-telegram-reminder",
+  "name": "Telegram Reminder",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Obsidian Telegram Reminder Plugin",
+  "author": "iBird Rose",
+  "authorUrl": "https://github.com/iiiBird",
+  "fundingUrl": "https://www.donationalerts.com/r/ibird",
+  "isDesktopOnly": false
+}
