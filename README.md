@@ -7,7 +7,7 @@ Telegram Reminder Plugin for Obsidian. This plugin allows you to configure notif
 ![main](main.jpg)
 
 ## Download
-Link
+https://github.com/iiiBird/obsidian-telegram-reminder/releases
 
 ## Usage
 
